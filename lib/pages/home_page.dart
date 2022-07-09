@@ -41,7 +41,7 @@ class HomePage extends StatelessWidget {
   Widget _pageTitle() {
     return Container(
       child: const Text(
-        '#Go Moon',
+        '#Go Moon 2',
         style: TextStyle(
           color: Colors.white,
           fontSize: 70,
